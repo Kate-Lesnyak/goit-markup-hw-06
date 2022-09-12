@@ -562,10 +562,6 @@ address {
 
 /* Присоединяйтесь */
 
-.join {
-	margin-left: 70px;
-}
-
 .join .social-list {
 	margin-top: 20px;
 }
@@ -582,9 +578,6 @@ footer .social-list .link:focus {
 }
 
 /* ================ Подипишитесь на рассылку ============*/
-.subcription {
-	margin-left: 93px;
-}
 
 .subcription-form {
 	display: flex;
